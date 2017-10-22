@@ -1,5 +1,5 @@
-#CPP Trainings
-###Structural cpp, object cpp coming soon.
+# CPP Trainings
+### Structural cpp, object cpp coming soon.
 
 So, there is some code. Some sources of my labs from university.
 
