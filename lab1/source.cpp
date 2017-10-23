@@ -2,7 +2,8 @@
 #include <cmath>
 using namespace std;
 
-int main(void) {
+int main(void)
+{
     int const var_a = 157;
 
     float var_z1 = pow(
